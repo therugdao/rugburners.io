@@ -1,0 +1,15 @@
+a:hover {
+  color: #D3D3D3;
+}
+
+a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+@media screen and (max-width: 700px) {
+  .rugrec {
+    width: 100%;
+  }
+}
+
